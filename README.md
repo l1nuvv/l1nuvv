@@ -33,4 +33,3 @@ src="https://img.shields.io/twitch/status/l1nuvv?logo=twitchsx&style=for-the-bad
 ### Badges
 My Codewars Badge:
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![image](https://www.codewars.com/users/l1nuvv/badges/large)
