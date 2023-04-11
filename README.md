@@ -31,5 +31,4 @@ src="https://img.shields.io/twitch/status/l1nuvv?logo=twitchsx&style=for-the-bad
 <p align="left"> <a href="https://discord.com/users/l1nuvv#6036" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/l1nuvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/l1nuvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
-My Codewars Badge:
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![image](https://www.codewars.com/users/l1nuvv/badges/large)
