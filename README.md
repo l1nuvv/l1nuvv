@@ -1,34 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danila
-======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Danila</h1>
+<h3 align="center">C++ intern</h3>
 
-Python Developer(study)
------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=l1nuvv&label=Profile%20views&color=0e75b6&style=flat" alt="l1nuvv" /> </p>
 
-I have been learning to program for about 8 years. In search of my language I tried: Python, C++, C#, Rust, JS(& CSS, HTML).
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l1nuvv" alt="l1nuvv" /></a> </p>
 
-* 🌍  I'm based in Russia
-* ✉️  You can contact me at [uxo1612@gmail.com](mailto:uxo1612@gmail.com)
-* 🧠  I'm learning any Python modules
-* 🤝  I'm open to collaborating on other projects
+- 🔭 I’m currently working on **UE5 FPS game**
 
-<a href="https://www.twitch.tv/l1nuvv" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/l1nuvv?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+- 🌱 I’m currently learning **C++, Unreal Engine 5, Computer Science**
 
-### Skills
+- 📫 How to reach me **l1nuvv5@gmail.com telegram:@iamthekidyouknowwhatimeann**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/l1nuvv#6036" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/l1nuvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/l1nuvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-
-### Badges
-![image](https://www.codewars.com/users/l1nuvv/badges/large)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1nuvv&show_icons=true&locale=en&layout=compact" alt="l1nuvv" /></p>
