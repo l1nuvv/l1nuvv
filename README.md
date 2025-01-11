@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **fundamental of C++ and OpenGL**
 
-- 👨‍💻 All of my projects are available at [this github](this github)
+- 👨‍💻 All of my projects are available at this github profile
 
 - 📫 How to reach me **telegram: @iamthekidyouknowwhatimeann**
 
