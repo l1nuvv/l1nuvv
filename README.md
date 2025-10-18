@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Danila</h1>
-<h3 align="center">A trainee-junior C++ developer from Russia</h3>
+<h3 align="center">A Junior C++ developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l1nuvv&label=Profile%20views&color=0e75b6&style=flat" alt="l1nuvv" /> </p>
 
-- 🌱 I’m currently learning **C++, Boost, Qt**
+- 🌱 I’m currently learning **C++, OpenCV, Qt**
 
 - 🤝 I’m looking for help with **C, С++, OpenGL**
 
-- 📫 How to reach me in Telegram **@danlillil**
+- 📫 How to reach me in Telegram **@dannnnzzc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
