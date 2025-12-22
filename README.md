@@ -1,17 +1,39 @@
-<h1 align="center">Hi 👋, I'm Danila</h1>
-<h3 align="center">A Junior C++ developer from Russia</h3>
+### Hi there, I'm Danila (l1nuvv) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l1nuvv&label=Profile%20views&color=0e75b6&style=flat" alt="l1nuvv" /> </p>
+**C++ Software Engineer | High Performance Computing | Computer Vision**
 
-- 🌱 I’m currently learning **C++, OpenCV, Qt**
+I focus on building efficient, optimized software for processing complex data. Currently deep diving into **Engines**, **OpenCV**, and **System Programming**.
 
-- 🤝 I’m looking for help with **C, С++, OpenGL**
+---
 
-- 📫 How to reach me in Telegram **@dannnnzzc**
+### 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+*   **Languages:** ![C++](https://img.shields.io/badge/-C++17/20-00599C?logo=c%2B%2B&logoColor=white)
+*   **Core:** STL, Multithreading (std::thread, OpenMP)
+*   **Tools:** CMake, Git, CLion, Linux (WSL, VM, Native)
+*   **Libraries:** OpenCV, GDAL, SPDLog
+*   **Areas of Interest:** GameDev, Graphics Programming, GIS, Networking
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+---
+
+### 🔭 Featured Projects
+
+#### [🌾 Field Analyzer](https://github.com/l1nuvv/field-analyzer) *(Private Repo - Ask for access)*
+**High-performance tool for satellite imagery analysis (NDVI, EVI, Kriging).**
+*   **Performance:** Achieved **3.5x speedup** using OpenMP parallelization for variogram calculation.
+*   **Optimization:** Implemented **FLANN KD-Tree** for spatial queries, reducing complexity from $O(N^2)$ to $O(N \log N)$.
+*   **Architecture:** Designed a custom **Thread-Safe Logging System** using Mutexes and Move Semantics.
+
+---
+
+### 📈 GitHub Stats
+
+![l1nuvv's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1nuvv&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1nuvv&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 📫 Contact Me
+
+I am open to opportunities in C++ Development (Junior/Middle).
+*   **Focus:** Backend optimization, Engine dev, Computer Vision.
