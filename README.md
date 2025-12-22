@@ -12,13 +12,13 @@ the core developer on a stealth-mode startup project involving geospatial data a
 
 This is the technology I use daily and know from hands-on experience.
 
-| Category                 | Technologies                                                                                    |
-|:-------------------------|:------------------------------------------------------------------------------------------------|
-| **Language & Paradigms** | `C++ (17/20)`, `Object-Oriented Programming`, `Parallel Programming`                            |
-| **High-Performance C++** | `Multithreading (std::thread, std::mutex)`, `OpenMP`, `Move Semantics`, `Smart Pointers (RAII)` |
-| **Core Libraries**       | `OpenCV`, `GDAL`, `spdlog`, `Eigen`                                                             |
-| **Tools & Environment**  | `CMake`, `Git`, `Visual Studio`, `CLion`, `Ninja`, `Windows & Linux (WSL)`                      |
-| **Domain Knowledge**     | `Computer Vision`, `GIS`, `Image Processing`, `Geostatistics (Variograms)`                      |
+| Category                 | Technologies                                                                                        |
+|:-------------------------|:----------------------------------------------------------------------------------------------------|
+| **Language & Paradigms** | `C++ (17/20)`, `Object-Oriented Programming`, `Parallel Programming`                                |
+| **High-Performance C++** | `Multithreading (std::thread, std::mutex)`, `OpenMP`, `Move Semantics`, `RAII`                      |
+| **Core Libraries**       | `OpenCV`, `GDAL`, `spdlog`, `Eigen`, `OpenGL`                                                       |
+| **Tools & Environment**  | `CMake`, `Git`, `Visual Studio`, `CLion`, `Ninja`, `Windows & Linux (Native, WSL, VM)`, `Wireshark` |
+| **Domain Knowledge**     | `Computer Vision`, `GIS`, `Image Processing`, `Geostatistics (Variograms)`                          |
 
 ---
 
