@@ -1,39 +1,51 @@
 ### Hi there, I'm Danila (l1nuvv) 👋
 
-**C++ Software Engineer | High Performance Computing | Computer Vision**
+A self-taught **C++ Software Engineer** from Russia with a strong focus on **High-Performance Computing** and **Computer
+Vision**.
 
-I focus on building efficient, optimized software for processing complex data. Currently deep diving into **Engines**, **OpenCV**, and **System Programming**.
-
----
-
-### 🛠️ Tech Stack
-
-*   **Languages:** ![C++](https://img.shields.io/badge/-C++17/20-00599C?logo=c%2B%2B&logoColor=white)
-*   **Core:** STL, Multithreading (std::thread, OpenMP)
-*   **Tools:** CMake, Git, CLion, Linux (WSL, VM, Native)
-*   **Libraries:** OpenCV, GDAL, SPDLog
-*   **Areas of Interest:** GameDev, Graphics Programming, GIS, Networking
+I am passionate about writing clean, efficient, and modern C++ code to solve complex engineering problems. I'm currently
+the core developer on a stealth-mode startup project involving geospatial data analysis.
 
 ---
 
-### 🔭 Featured Projects
+### 🛠️ My Tech Stack
 
-#### [🌾 Field Analyzer](https://github.com/l1nuvv/field-analyzer) *(Private Repo - Ask for access)*
-**High-performance tool for satellite imagery analysis (NDVI, EVI, Kriging).**
-*   **Performance:** Achieved **3.5x speedup** using OpenMP parallelization for variogram calculation.
-*   **Optimization:** Implemented **FLANN KD-Tree** for spatial queries, reducing complexity from $O(N^2)$ to $O(N \log N)$.
-*   **Architecture:** Designed a custom **Thread-Safe Logging System** using Mutexes and Move Semantics.
+This is the technology I use daily and know from hands-on experience.
 
----
-
-### 📈 GitHub Stats
-
-![l1nuvv's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1nuvv&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1nuvv&layout=compact&theme=dark&hide_border=true)
+| Category                 | Technologies                                                                                    |
+|:-------------------------|:------------------------------------------------------------------------------------------------|
+| **Language & Paradigms** | `C++ (17/20)`, `Object-Oriented Programming`, `Parallel Programming`                            |
+| **High-Performance C++** | `Multithreading (std::thread, std::mutex)`, `OpenMP`, `Move Semantics`, `Smart Pointers (RAII)` |
+| **Core Libraries**       | `OpenCV`, `GDAL`, `spdlog`, `Eigen`                                                             |
+| **Tools & Environment**  | `CMake`, `Git`, `Visual Studio`, `CLion`, `Ninja`, `Windows & Linux (WSL)`                      |
+| **Domain Knowledge**     | `Computer Vision`, `GIS`, `Image Processing`, `Geostatistics (Variograms)`                      |
 
 ---
 
-### 📫 Contact Me
+### 🔭 Featured Project
 
-I am open to opportunities in C++ Development (Junior/Middle).
-*   **Focus:** Backend optimization, Engine dev, Computer Vision.
+#### **Field Analyzer** (Private Startup Project)
+
+A console-based engine for high-performance analysis of Sentinel-2 satellite imagery.
+
+* **What it does:** Processes gigabytes of `.jp2` images to calculate vegetation indices (NDVI, EVI) and performs
+  geostatistical analysis to model spatial dependencies.
+* **My Contribution:**
+    * Architected and implemented the core processing pipeline.
+    * **Optimized the variogram calculation loop, achieving a 3-4x performance increase** by parallelizing the algorithm
+      with **OpenMP**.
+    * Designed and implemented a custom **thread-safe logging system** using `std::mutex` and `std::lock_guard` to
+      prevent race conditions in parallel regions.
+    * Reduced algorithmic complexity from $O(N^2)$ to $O(N \log N)$ by integrating the **FLANN KD-Tree** library for
+      efficient nearest-neighbor search.
+
+---
+
+### 🌱 What I'm Learning Next
+
+* **Vulkan API:** Deepening my knowledge in low-level graphics programming.
+* **Advanced C++20/23:** Coroutines, Ranges, and Concepts.
+* **CI/CD:** Automating builds and tests with GitHub Actions.
+
+---
+*Open to challenging opportunities in C++ Development, particularly in performance-critical domains.*
