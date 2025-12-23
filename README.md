@@ -1,4 +1,4 @@
-### Hi there, I'm Danila (l1nuvv) 👋
+### Hi, I'm Danila
 
 A self-taught **C++ Software Engineer** from Russia with a strong focus on **High-Performance Computing** and **Computer
 Vision**.
@@ -14,9 +14,9 @@ This is the technology I use daily and know from hands-on experience.
 
 | Category                 | Technologies                                                                                        |
 |:-------------------------|:----------------------------------------------------------------------------------------------------|
-| **Language & Paradigms** | `C++ (17/20)`, `Object-Oriented Programming`, `Parallel Programming`                                |
-| **High-Performance C++** | `Multithreading (std::thread, std::mutex)`, `OpenMP`, `Move Semantics`, `RAII`                      |
-| **Core Libraries**       | `OpenCV`, `GDAL`, `spdlog`, `Eigen`, `OpenGL`                                                       |
+| **Language & Paradigms** | `C++ (11/17/20)`, `Object-Oriented Programming`, `Parallel Programming(OpenMP)`                                |
+| **High-Performance C++** | `Multithreading`, `OpenMP`,                   |
+| **Core Libraries**       | `OpenCV`, `GDAL`, `spdlog`, `Eigen`, `OpenGL`, `GLFW`                                                       |
 | **Tools & Environment**  | `CMake`, `Git`, `Visual Studio`, `CLion`, `Ninja`, `Windows & Linux (Native, WSL, VM)`, `Wireshark` |
 | **Domain Knowledge**     | `Computer Vision`, `GIS`, `Image Processing`, `Geostatistics (Variograms)`                          |
 
@@ -45,7 +45,7 @@ A console-based engine for high-performance analysis of Sentinel-2 satellite ima
 
 * **Vulkan API:** Deepening my knowledge in low-level graphics programming.
 * **Advanced C++20/23:** Coroutines, Ranges, and Concepts.
-* **CI/CD:** Automating builds and tests with GitHub Actions.
+* **CI/CD:** Automating builds and tests with GitHub Actions, focus on DevOps too
 
 ---
 *Open to challenging opportunities in C++ Development, particularly in performance-critical domains.*
