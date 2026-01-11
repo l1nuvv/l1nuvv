@@ -5,7 +5,9 @@ Vision**.
 
 I am passionate about writing clean, efficient, and modern C++ code to solve complex engineering problems. I'm currently
 the core developer on a stealth-mode startup project involving geospatial data analysis.
-![My CodeWars](https://www.codewars.com/users/l1nuvv/badges/large)
+
+
+![My CodeWars](https://www.codewars.com/users/l1nuvv/badges/small)
 
 ---
 
