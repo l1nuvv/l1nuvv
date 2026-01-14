@@ -1,6 +1,6 @@
 ### Hi, I'm Danila
 
-A self-taught **C++ Software Engineer** from Russia with a strong focus on **High-Performance Computing** and **Computer
+A self-taught **C++ Developer** with a strong focus on **High-Performance Computing** and **Computer
 Vision**.
 
 I am passionate about writing clean, efficient, and modern C++ code to solve complex engineering problems. I'm currently
