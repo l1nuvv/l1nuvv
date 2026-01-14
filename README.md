@@ -1,6 +1,6 @@
 ### Hi, I'm Danila
 
-A self-taught **C++ Developer** with a strong focus on **High-Performance Computing** and **Computer
+A **C++ Developer** with a strong focus on **High-Performance Computing** and **Computer
 Vision**.
 
 I am passionate about writing clean, efficient, and modern C++ code to solve complex engineering problems. I'm currently
@@ -46,6 +46,7 @@ A console-based engine for high-performance analysis of Sentinel-2 satellite ima
 
 ### 🌱 What I'm Learning Next
 
+* **C:** for STM32 programming
 * **Vulkan API:** Deepening my knowledge in low-level graphics programming.
 * **Advanced C++20/23:** Coroutines, Ranges, and Concepts.
 * **CI/CD:** Automating builds and tests with GitHub Actions, focus on DevOps too
