@@ -20,7 +20,7 @@ This is the technology I use daily and know from hands-on experience.
 | **Language & Paradigms** | `C++ (11/17/20)`, `Object-Oriented Programming`, `Parallel Programming(OpenMP)`                                |
 | **High-Performance C++** | `Multithreading`, `OpenMP`,                   |
 | **Core Libraries**       | `OpenCV`, `GDAL`, `spdlog`, `Eigen`, `OpenGL`, `GLFW`                                                       |
-| **Tools & Environment**  | `CMake`, `Git`, `Visual Studio`, `CLion`, `Ninja`, `Windows & Linux (Native, WSL, VM)`, `Wireshark` |
+| **Tools & Environment**  | `CMake`, `Git`, `Windows & Linux (Native, WSL, VM)`, `Wireshark` |
 | **Domain Knowledge**     | `Computer Vision`, `GIS`, `Image Processing`, `Geostatistics (Variograms)`                          |
 
 ---
