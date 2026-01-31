@@ -1,55 +1,58 @@
-### Hi, I'm Danila
+### Привет, я Данила
 
-A **C++ Developer** with a strong focus on **High-Performance Computing** and **Computer
-Vision**.
+**C++ разработчик** с фокусом на **высокопроизводительные вычисления** и **компьютерное зрение**.
 
-I am passionate about writing clean, efficient, and modern C++ code to solve complex engineering problems. I'm currently
-the core developer on a stealth-mode startup project involving geospatial data analysis.
+![CodeWars](https://www.codewars.com/users/l1nuvv/badges/small)
 
-
-![My CodeWars](https://www.codewars.com/users/l1nuvv/badges/small)
-
----
-
-### 🛠️ My Tech Stack
-
-This is the technology I use daily and know from hands-on experience.
-
-| Category                 | Technologies                                                                                        |
-|:-------------------------|:----------------------------------------------------------------------------------------------------|
-| **Language & Paradigms** | `C++ (11/17/20)`, `Object-Oriented Programming`, `Parallel Programming(OpenMP)`                                |
-| **High-Performance C++** | `Multithreading`, `OpenMP`,                   |
-| **Core Libraries**       | `OpenCV`, `GDAL`, `spdlog`, `Eigen`, `OpenGL`, `GLFW`                                                       |
-| **Tools & Environment**  | `CMake`, `Git`, `Windows & Linux (Native, WSL, VM)`, `Wireshark` |
-| **Domain Knowledge**     | `Computer Vision`, `GIS`, `Image Processing`, `Geostatistics (Variograms)`                          |
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
-### 🔭 Featured Project
+### 🛠️ Стек технологий
 
-#### **Field Analyzer** (Private Startup Project)
+Технологии, с которыми я работаю ежедневно на основе практического опыта.
 
-A console-based engine for high-performance analysis of Sentinel-2 satellite imagery.
-
-* **What it does:** Processes gigabytes of `.jp2` images to calculate vegetation indices (NDVI, EVI) and performs
-  geostatistical analysis to model spatial dependencies.
-* **My Contribution:**
-    * Architected and implemented the core processing pipeline.
-    * **Optimized the variogram calculation loop, achieving a 3-4x performance increase** by parallelizing the algorithm
-      with **OpenMP**.
-    * Designed and implemented a custom **thread-safe logging system** using `std::mutex` and `std::lock_guard` to
-      prevent race conditions in parallel regions.
-    * Reduced algorithmic complexity from $O(N^2)$ to $O(N \log N)$ by integrating the **FLANN KD-Tree** library for
-      efficient nearest-neighbor search.
+| Категория               | Технологии                                                         |
+|:------------------------|:-------------------------------------------------------------------|
+| **Язык**                | `C++ (11/17/20)`                                                   |
+| **Основные библиотеки** | `OpenCV`, `GDAL`, `Eigen`, `spdlog`, `OpenGL`, `GLFW`, `GTest`    |
+| **Инструменты**         | `CMake`, `Git`, `OpenMP`, `Windows/Linux`, `Wireshark`            |
+| **Домены**              | `Computer Vision`, `ГИС`, `Обработка изображений`, `Геостатистика`|
 
 ---
 
-### 🌱 What I'm Learning Next
+### 🔭 Проекты
 
-* **C:** for STM32 programming
-* **Vulkan API:** Deepening my knowledge in low-level graphics programming.
-* **Advanced C++20/23:** Coroutines, Ranges, and Concepts.
-* **CI/CD:** Automating builds and tests with GitHub Actions, focus on DevOps too
+#### **[Field Analyzer](https://github.com/l1nuvv/field_analyzer-showcase)** (Приватный проект)
+
+Движок для высокопроизводительного анализа спутниковых снимков Sentinel-2.
+
+* **Что делает:** Обрабатывает гигабайты `.jp2` изображений для расчета вегетационных индексов (NDVI, EVI, PRI) и выполняет геостатистический анализ для моделирования пространственных зависимостей.
+* **Мой вклад:**
+    * Разработал и реализовал основной конвейер обработки данных.
+    * **Оптимизировал цикл вычисления вариограмм, достигнув ускорения в 3-4 раза** за счет параллелизации алгоритма с **OpenMP**.
+    * Спроектировал и реализовал **потокобезопасную систему логирования** с использованием `std::mutex` и `std::lock_guard` для предотвращения гонок данных в параллельных секциях.
+    * Снизил алгоритмическую сложность с O(N²) до O(N log N) за счет интеграции библиотеки **FLANN KD-Tree** для эффективного поиска ближайших соседей.
+
+#### **[PCAP Parser](https://github.com/l1nuvv/Pcap_parser)**
+
+Консольный анализатор сетевого трафика для PCAP файлов.
+
+* **Возможности:**
+    * Парсинг Ethernet-фреймов (linktype 1).
+    * Статистика пакетов по длинам и MAC-адресам.
+    * Извлечение IPv4/IPv6 пакетов с экспортом в бинарные форматы `.pack2` и `.pack4`.
+    * Бенчмарки производительности сортировки.
+* **Стек:** `C++11`, `CMake`, `Google Test`
 
 ---
-*Open to challenging opportunities in C++ Development, particularly in performance-critical domains.*
+
+### 📫 Контакты
+
+**Email:** uxo1612@gmail.com  
+**Telegram:** @dannnnzzc
