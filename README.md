@@ -28,7 +28,7 @@
 
 ### 🔭 Проекты
 
-#### **[Field Analyzer](https://github.com/l1nuvv/field_analyzer-showcase)** (Приватный проект)
+#### **[Field Analyzer](https://github.com/l1nuvv/field_analyzer-showcase)** (Стартап проект)
 
 Движок для высокопроизводительного анализа спутниковых снимков Sentinel-2.
 
@@ -42,7 +42,7 @@
     * Снизил алгоритмическую сложность с O(N²) до O(N log N) за счет интеграции библиотеки **FLANN KD-Tree** для
       эффективного поиска ближайших соседей.
     * Использование нативных **OpenCV** методов для лучшей производительности
-* **Стек:** `C++17`, `OpenCV`, `GDAL`, `Eigen`, `OpenMP`, `spdlog`, `CMake`, `GTest`
+* **Стек:** `C++20`, `OpenCV`, `GDAL`, `Eigen`, `OpenMP`, `spdlog`, `CMake`, `GTest`
 
 #### **[PCAP Parser](https://github.com/l1nuvv/Pcap_parser)**
 
