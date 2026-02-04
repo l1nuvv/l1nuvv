@@ -4,7 +4,8 @@
 
 ![CodeWars](https://www.codewars.com/users/l1nuvv/badges/small)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-red?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -19,7 +20,7 @@
 
 | Категория               | Технологии                                                         |
 |:------------------------|:-------------------------------------------------------------------|
-| **Язык**                | `C++ (11/17/20)`                                                   |
+| **Язык**                | `C++ (11/17/20)`, `C`, `Python`                                    |
 | **Основные библиотеки** | `OpenCV`, `GDAL`, `Eigen`, `spdlog`, `OpenGL`, `GLFW`, `GTest`     |
 | **Инструменты**         | `CMake`, `Git`, `OpenMP`, `Windows/Linux`, `Wireshark`             |
 | **Направления**         | `Computer Vision`, `ГИС`, `Обработка изображений`, `Геостатистика` |
